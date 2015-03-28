@@ -1,4 +1,4 @@
-Social-Network-Database
+Sample Database Structure
 =======================
 
-This is our project for database lab. We are creating a small social network database to prove ourselves that we learned it well.
+This is the sample database structure.
